@@ -1,0 +1,442 @@
+\begin{thebibliography}{66}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Becker and Teschner(2007)]{becker2007weakly}
+Markus Becker and Matthias Teschner.
+\newblock Weakly compressible sph for free surface flows.
+\newblock In \emph{Proceedings of the 2007 ACM SIGGRAPH/Eurographics symposium
+  on Computer animation}, pages 209--217. Eurographics Association, 2007.
+
+\bibitem[Biswas and Oliker(1999)]{biswas1999experiments}
+Rupak Biswas and Leonid Oliker.
+\newblock Experiments with repartitioning and load balancing adaptive meshes.
+\newblock In \emph{Grid Generation and Adaptive Algorithms}, pages 89--111.
+  Springer, 1999.
+
+\bibitem[Bursik(2001)]{bursik2001effect}
+M~Bursik.
+\newblock Effect of wind on the rise height of volcanic plumes.
+\newblock \emph{Geophys. Res. Lett}, 28\penalty0 (18):\penalty0 3621--3624,
+  2001.
+
+\bibitem[Bursik(2010)]{267}
+Marcus~I Bursik.
+\newblock bent: A model of plumes in crossflow, Nov 2010.
+\newblock URL \url{https://vhub.org/resources/267}.
+
+\bibitem[Bursik et~al.(2013)Bursik, Carbonara, and Zawicki]{114}
+Marcus~I Bursik, Alejandro~Uriel Carbonara, and Sean~Michael Zawicki.
+\newblock puffin, Jan 2013.
+\newblock URL \url{https://vhub.org/resources/114}.
+
+\bibitem[Carcano et~al.(2013)Carcano, Bonaventura, Esposti~Ongaro, and
+  Neri]{carcano2013semi}
+S~Carcano, L~Bonaventura, T~Esposti~Ongaro, and A~Neri.
+\newblock A semi-implicit, second-order-accurate numerical model for multiphase
+  underexpanded volcanic jets.
+\newblock \emph{Geoscientific Model Development}, 6\penalty0 (6):\penalty0
+  1905--1924, 2013.
+
+\bibitem[Cebeci(2013)]{cebeci2013analysis}
+Tuncer Cebeci.
+\newblock \emph{Analysis of turbulent flows with computer programs}.
+\newblock Butterworth-Heinemann, 2013.
+
+\bibitem[Chen et~al.(1999)Chen, Beraun, and Jih]{chen1999improvement}
+JK~Chen, JE~Beraun, and CJ~Jih.
+\newblock An improvement for tensile instability in smoothed particle
+  hydrodynamics.
+\newblock \emph{Computational Mechanics}, 23\penalty0 (4):\penalty0 279--287,
+  1999.
+
+\bibitem[Cleary and Monaghan(1999)]{cleary1999conduction}
+Paul~W Cleary and Joseph~J Monaghan.
+\newblock Conduction modelling using smoothed particle hydrodynamics.
+\newblock \emph{Journal of Computational Physics}, 148\penalty0 (1):\penalty0
+  227--264, 1999.
+
+\bibitem[Costa et~al.(2016)Costa, Suzuki, Cerminara, Devenish, Ongaro, Herzog,
+  Van~Eaton, Denby, Bursik, Vitturi, et~al.]{costa2016results}
+A~Costa, YJ~Suzuki, M~Cerminara, BJ~Devenish, T~Esposti Ongaro, M~Herzog,
+  AR~Van~Eaton, LC~Denby, M~Bursik, M~de'Michieli Vitturi, et~al.
+\newblock Results of the eruptive column model inter-comparison study.
+\newblock \emph{Journal of Volcanology and Geothermal Research}, 2016.
+
+\bibitem[Crespo et~al.(2015)Crespo, Dom{\'\i}nguez, Rogers, G{\'o}mez-Gesteira,
+  Longshaw, Canelas, Vacondio, Barreiro, and
+  Garc{\'\i}a-Feal]{crespo2015dualsphysics}
+AJC Crespo, JM~Dom{\'\i}nguez, BD~Rogers, M~G{\'o}mez-Gesteira, S~Longshaw,
+  R~Canelas, R~Vacondio, A~Barreiro, and O~Garc{\'\i}a-Feal.
+\newblock Dualsphysics: Open-source parallel cfd solver based on smoothed
+  particle hydrodynamics (sph).
+\newblock \emph{Computer Physics Communications}, 187:\penalty0 204--216, 2015.
+
+\bibitem[Dimotakis et~al.(1983)Dimotakis, Miake-Lye, and
+  Papantoniou]{dimotakis1983structure}
+Paul~E Dimotakis, Richard~C Miake-Lye, and Dimitris~A Papantoniou.
+\newblock Structure and dynamics of round turbulent jets.
+\newblock \emph{Physics of Fluids}, 26\penalty0 (11):\penalty0 3185--3192,
+  1983.
+
+\bibitem[Draxler and Rolph(2015)]{draxler2015hysplit}
+R.R. Draxler and G.D. Rolph.
+\newblock Hysplit (hybrid single-particle lagrangian integrated trajectory)
+  model access via noaa arl ready website (). noaa air resources laboratory,
+  silver spring, 2015.
+
+\bibitem[Ferrari et~al.(2009)Ferrari, Dumbser, Toro, and
+  Armanini]{ferrari2009new}
+Angela Ferrari, Michael Dumbser, Eleuterio~F Toro, and Aronne Armanini.
+\newblock A new 3d parallel sph scheme for free surface flows.
+\newblock \emph{Computers \& Fluids}, 38\penalty0 (6):\penalty0 1203--1217,
+  2009.
+
+\bibitem[George et~al.(1977)George, Alpert, and Tamanini]{george1977turbulence}
+William~K George, Ronald~L Alpert, and Francesco Tamanini.
+\newblock Turbulence measurements in an axisymmetric buoyant plume.
+\newblock \emph{International Journal of Heat and Mass Transfer}, 20\penalty0
+  (11):\penalty0 1145--1154, 1977.
+
+\bibitem[Gingold and Monaghan(1977)]{gingold1977smoothed}
+Robert~A Gingold and Joseph~J Monaghan.
+\newblock Smoothed particle hydrodynamics: theory and application to
+  non-spherical stars.
+\newblock \emph{Monthly notices of the royal astronomical society},
+  181\penalty0 (3):\penalty0 375--389, 1977.
+
+\bibitem[Herzog et~al.(1998)Herzog, Graf, Textor, and
+  Oberhuber]{herzog1998effect}
+Michael Herzog, Hans-F Graf, Christiane Textor, and Josef~M Oberhuber.
+\newblock The effect of phase changes of water on the development of volcanic
+  plumes.
+\newblock \emph{Journal of Volcanology and Geothermal Research}, 87\penalty0
+  (1):\penalty0 55--74, 1998.
+
+\bibitem[Herzog et~al.(2003)Herzog, Oberhuber, and Graf]{herzog2003prognostic}
+Michael Herzog, Josef~M Oberhuber, and Hans-F Graf.
+\newblock A prognostic turbulence scheme for the nonhydrostatic plume model
+  atham.
+\newblock \emph{Journal of the atmospheric sciences}, 60\penalty0
+  (22):\penalty0 2783--2796, 2003.
+
+\bibitem[Holm(1999)]{holm1999fluctuation}
+Darryl~D Holm.
+\newblock Fluctuation effects on 3d lagrangian mean and eulerian mean fluid
+  motion.
+\newblock \emph{Physica D: Nonlinear Phenomena}, 133\penalty0 (1):\penalty0
+  215--269, 1999.
+
+\bibitem[Issa(2005)]{issa2005numerical}
+Reza Issa.
+\newblock Numerical assessment of the smoothed particle hydrodynamics gridless
+  method for incompressible flows and its extension to turbulent flows.
+\newblock 2005.
+
+\bibitem[Kays(1994)]{kays1994turbulent}
+William~M Kays.
+\newblock Turbulent prandtl number—where are we?
+\newblock \emph{Journal of Heat Transfer}, 116\penalty0 (2):\penalty0 284--295,
+  1994.
+
+\bibitem[Kobs(2009)]{kobs2009modeling}
+Shannon Kobs.
+\newblock \emph{Modeling particle motion and near-vent deposition in explosive
+  volcanic eruptions}.
+\newblock State University of New York at Buffalo, 2009.
+
+\bibitem[Koyaguchi and Woods(1996)]{koyaguchi1996formation}
+Takehiro Koyaguchi and Andrew~W Woods.
+\newblock On the formation of eruption columns following explosive mixing of
+  magma and surface-water.
+\newblock \emph{Journal of Geophysical Research: Solid Earth (1978--2012)},
+  101\penalty0 (B3):\penalty0 5561--5574, 1996.
+
+\bibitem[Koyaguchi et~al.(2009)Koyaguchi, Ochiai, and
+  Suzuki]{koyaguchi2009effect}
+Takehiro Koyaguchi, Kiyokatsu Ochiai, and Yujiro~J Suzuki.
+\newblock The effect of intensity of turbulence in umbrella cloud on tephra
+  dispersion during explosive volcanic eruptions: Experimental and numerical
+  approaches.
+\newblock \emph{Journal of Volcanology and Geothermal Research}, 186\penalty0
+  (1):\penalty0 68--78, 2009.
+
+\bibitem[Kumar et~al.(2013)Kumar, Patra, Pitman, and Chi]{kumar2013parallel}
+Dinesh Kumar, Abani~K Patra, E~Bruce Pitman, and H~Chi.
+\newblock Parallel godunov smoothed particle hydrodynamics (sph) with improved
+  treatment of boundary conditions and an application to granular flows.
+\newblock \emph{Computer Physics Communications}, 184\penalty0 (10):\penalty0
+  2277--2286, 2013.
+
+\bibitem[Langmann et~al.(1997)Langmann, Herzog, and
+  Graf]{langmann1997radiative}
+B{\"a}rbel Langmann, Michael Herzog, and Hans-F Graf.
+\newblock Radiative forcing of sulfate aerosols as determined by a regional
+  circulation-chemistry transport model.
+\newblock \emph{Journal of Aerosol Science}, 28:\penalty0 S389--S390, 1997.
+
+\bibitem[List(1982)]{list1982turbulent}
+EJ~List.
+\newblock Turbulent jets and plumes.
+\newblock \emph{Annual review of fluid mechanics}, 14\penalty0 (1):\penalty0
+  189--212, 1982.
+
+\bibitem[Lockwood and Hazlett(2013)]{lockwood2013volcanoes}
+John~P Lockwood and Richard~W Hazlett.
+\newblock \emph{Volcanoes: global perspectives}.
+\newblock John Wiley \& Sons, 2013.
+
+\bibitem[Lucy(1977)]{lucy1977numerical}
+Leon~B Lucy.
+\newblock A numerical approach to the testing of the fission hypothesis.
+\newblock \emph{The astronomical journal}, 82:\penalty0 1013--1024, 1977.
+
+\bibitem[Mastin(2007)]{mastin2007user}
+Larry~G Mastin.
+\newblock A user-friendly one-dimensional model for wet volcanic plumes.
+\newblock \emph{Geochemistry, Geophysics, Geosystems}, 8\penalty0 (3), 2007.
+
+\bibitem[Mastin(2011)]{1194}
+Larry~G Mastin.
+\newblock Plumeria 2.3.1, Dec 2011.
+\newblock URL \url{https://vhub.org/resources/1194}.
+
+\bibitem[Monaghan(2002)]{monaghan2002sph}
+JJ~Monaghan.
+\newblock Sph compressible turbulence.
+\newblock \emph{Monthly Notices of the Royal Astronomical Society},
+  335\penalty0 (3):\penalty0 843--852, 2002.
+
+\bibitem[Monaghan(2005)]{monaghan2005smoothed}
+JJ~Monaghan.
+\newblock Smoothed particle hydrodynamics.
+\newblock \emph{Reports on progress in physics}, 68\penalty0 (8):\penalty0
+  1703, 2005.
+
+\bibitem[Monaghan(2012)]{monaghan2012smoothed}
+JJ~Monaghan.
+\newblock Smoothed particle hydrodynamics and its diverse applications.
+\newblock \emph{Annual Review of Fluid Mechanics}, 44:\penalty0 323--346, 2012.
+
+\bibitem[Monaghan and Kocharyan(1995)]{monaghan1995sph}
+JJ~Monaghan and A~Kocharyan.
+\newblock Sph simulation of multi-phase flow.
+\newblock \emph{Computer Physics Communications}, 87\penalty0 (1):\penalty0
+  225--235, 1995.
+
+\bibitem[Monaghan(1992)]{monaghan1992smoothed}
+Joe~J Monaghan.
+\newblock Smoothed particle hydrodynamics.
+\newblock \emph{Annual review of astronomy and astrophysics}, 30:\penalty0
+  543--574, 1992.
+
+\bibitem[Monaghan(2011)]{monaghan2011turbulence}
+Joe~J Monaghan.
+\newblock A turbulence model for smoothed particle hydrodynamics.
+\newblock \emph{European Journal of Mechanics-B/Fluids}, 30\penalty0
+  (4):\penalty0 360--370, 2011.
+
+\bibitem[Monaghan and Kajtar(2009)]{monaghan2009sph}
+Joe~J Monaghan and Jules~B Kajtar.
+\newblock Sph particle boundary forces for arbitrary boundaries.
+\newblock \emph{Computer Physics Communications}, 180\penalty0 (10):\penalty0
+  1811--1820, 2009.
+
+\bibitem[Monaghan and Lattanzio(1985)]{monaghan1985refined}
+Joseph~J Monaghan and John~C Lattanzio.
+\newblock A refined particle method for astrophysical problems.
+\newblock \emph{Astronomy and astrophysics}, 149:\penalty0 135--143, 1985.
+
+\bibitem[Morton et~al.(1956)Morton, Taylor, and Turner]{morton1956turbulent}
+BR~Morton, Geoffrey Taylor, and JS~Turner.
+\newblock Turbulent gravitational convection from maintained and instantaneous
+  sources.
+\newblock In \emph{Proceedings of the Royal Society of London A: Mathematical,
+  Physical and Engineering Sciences}, volume 234, pages 1--23. The Royal
+  Society, 1956.
+
+\bibitem[Neri et~al.(2003)Neri, Esposti~Ongaro, Macedonio, and
+  Gidaspow]{neri2003multiparticle}
+Augusto Neri, Tomaso Esposti~Ongaro, Giovanni Macedonio, and Dimitri Gidaspow.
+\newblock Multiparticle simulation of collapsing volcanic columns and
+  pyroclastic flow.
+\newblock \emph{Journal of Geophysical Research: Solid Earth (1978--2012)},
+  108\penalty0 (B4), 2003.
+
+\bibitem[Oberhuber et~al.(1998)Oberhuber, Herzog, Graf, and
+  Schwanke]{oberhuber1998volcanic}
+Josef~M Oberhuber, Michael Herzog, Hans-F Graf, and Karsten Schwanke.
+\newblock Volcanic plume simulation on large scales.
+\newblock \emph{Journal of Volcanology and Geothermal Research}, 87\penalty0
+  (1):\penalty0 29--53, 1998.
+
+\bibitem[Ongaro et~al.(2007)Ongaro, Cavazzoni, Erbacci, Neri, and
+  Salvetti]{ongaro2007parallel}
+T~Esposti Ongaro, Carlo Cavazzoni, Giovanni Erbacci, Augusto Neri, and
+  Maria-Vittoria Salvetti.
+\newblock A parallel multiphase flow code for the 3d simulation of explosive
+  volcanic eruptions.
+\newblock \emph{Parallel Computing}, 33\penalty0 (7):\penalty0 541--560, 2007.
+
+\bibitem[Papanicolaou and List(1988)]{papanicolaou1988investigations}
+Panos~N Papanicolaou and E~John List.
+\newblock Investigations of round vertical turbulent buoyant jets.
+\newblock \emph{Journal of Fluid Mechanics}, 195:\penalty0 341--391, 1988.
+
+\bibitem[Patra and Kim(1999)]{patra1999efficient}
+AK~Patra and DW~Kim.
+\newblock Efficient mesh partitioning for adaptive hp finite element meshes.
+\newblock In \emph{In International Conference on Domain Decomposition
+  Methods}. Citeseer, 1999.
+
+\bibitem[Price(2012)]{price2012smoothed}
+Daniel~J Price.
+\newblock Smoothed particle hydrodynamics and magnetohydrodynamics.
+\newblock \emph{Journal of Computational Physics}, 231\penalty0 (3):\penalty0
+  759--794, 2012.
+
+\bibitem[Rosswog(2009)]{rosswog2009astrophysical}
+Stephan Rosswog.
+\newblock Astrophysical smooth particle hydrodynamics.
+\newblock \emph{New Astronomy Reviews}, 53\penalty0 (4):\penalty0 78--104,
+  2009.
+
+\bibitem[Rumsey(2014)]{NASACompressibleTurbulence}
+Christopher Rumsey.
+\newblock Implementing turbulence models into the compressible rans equations,
+  Agu 2014.
+\newblock URL \url{http://turbmodels.larc.nasa.gov/implementrans.html}.
+
+\bibitem[Settle(1978)]{settle1978volcanic}
+Mark Settle.
+\newblock Volcanic eruption clouds and the thermal power output of explosive
+  eruptions.
+\newblock \emph{Journal of Volcanology and Geothermal Research}, 3\penalty0
+  (3):\penalty0 309--324, 1978.
+
+\bibitem[Sparks et~al.(1997)Sparks, Bursik, Carey, Gilbert, Glaze, Sigurdsson,
+  and Woods]{sparks1997volcanic}
+Robert Stephen~John Sparks, MI~Bursik, SN~Carey, Jennifer Gilbert, LS~Glaze,
+  H~Sigurdsson, and AW~Woods.
+\newblock \emph{Volcanic plumes}.
+\newblock Wiley, 1997.
+
+\bibitem[Suzuki and Koyaguchi(2009)]{suzuki2009three}
+YJ~Suzuki and T~Koyaguchi.
+\newblock A three-dimensional numerical simulation of spreading umbrella
+  clouds.
+\newblock \emph{Journal of Geophysical Research: Solid Earth (1978--2012)},
+  114\penalty0 (B3), 2009.
+
+\bibitem[Suzuki and Koyaguchi(2010)]{suzuki2010numerical}
+YJ~Suzuki and T~Koyaguchi.
+\newblock Numerical determination of the efficiency of entrainment in volcanic
+  eruption columns.
+\newblock \emph{Geophysical Research Letters}, 37\penalty0 (5), 2010.
+
+\bibitem[Suzuki and Koyaguchi(2013)]{suzuki20133d}
+Yujiro~J Suzuki and Takehiro Koyaguchi.
+\newblock 3d numerical simulation of volcanic eruption clouds during the 2011
+  shinmoe-dake eruptions.
+\newblock \emph{Earth, Planets and Space}, 65\penalty0 (6):\penalty0 581--589,
+  2013.
+
+\bibitem[Suzuki et~al.(2005)Suzuki, Koyaguchi, Ogawa, and
+  Hachisu]{suzuki2005numerical}
+Yujiro~J Suzuki, Takehiro Koyaguchi, Masaki Ogawa, and Izumi Hachisu.
+\newblock A numerical study of turbulent mixing in eruption clouds using a
+  three-dimensional fluid dynamics model.
+\newblock \emph{Journal of Geophysical Research: Solid Earth (1978--2012)},
+  110\penalty0 (B8), 2005.
+
+\bibitem[Textor et~al.(2006{\natexlab{a}})Textor, Graf, Herzog, Oberhuber,
+  Rose, and Ernst]{textor2006volcanic2}
+C~Textor, Hans-F Graf, Michael Herzog, Josef~M Oberhuber, William~I Rose, and
+  GGJ Ernst.
+\newblock Volcanic particle aggregation in explosive eruption columns. part ii:
+  Numerical experiments.
+\newblock \emph{Journal of Volcanology and Geothermal Research}, 150\penalty0
+  (4):\penalty0 378--394, 2006{\natexlab{a}}.
+
+\bibitem[Textor et~al.(2003)Textor, Graf, Herzog, and
+  Oberhuber]{textor2003injection}
+Christiane Textor, Hans-F Graf, Michael Herzog, and JM~Oberhuber.
+\newblock Injection of gases into the stratosphere by explosive volcanic
+  eruptions.
+\newblock \emph{Journal of Geophysical Research: Atmospheres (1984--2012)},
+  108\penalty0 (D19), 2003.
+
+\bibitem[Textor et~al.(2006{\natexlab{b}})Textor, Graf, Herzog, Oberhuber,
+  Rose, and Ernst]{textor2006volcanic1}
+Christiane Textor, Hans-F Graf, Michael Herzog, Josef~M Oberhuber, William~I
+  Rose, and Gerald~GJ Ernst.
+\newblock Volcanic particle aggregation in explosive eruption columns. part i:
+  Parameterization of the microphysics of hydrometeors and ash.
+\newblock \emph{Journal of Volcanology and Geothermal Research}, 150\penalty0
+  (4):\penalty0 359--377, 2006{\natexlab{b}}.
+
+\bibitem[Trentmann et~al.(2002)Trentmann, Andreae, Graf, Hobbs, Ottmar, and
+  Trautmann]{trentmann2002simulation}
+J~Trentmann, MO~Andreae, H-F Graf, PV~Hobbs, RD~Ottmar, and T~Trautmann.
+\newblock Simulation of a biomass-burning plume: Comparison of model results
+  with observations.
+\newblock \emph{Journal of Geophysical Research: Atmospheres (1984--2012)},
+  107\penalty0 (D2):\penalty0 AAC--5, 2002.
+
+\bibitem[Van~Eaton et~al.(2015)Van~Eaton, Mastin, Herzog, Schwaiger, Schneider,
+  Wallace, and Clarke]{van2015hail}
+Alexa~R Van~Eaton, Larry~G Mastin, Michael Herzog, Hans~F Schwaiger, David~J
+  Schneider, Kristi~L Wallace, and Amanda~B Clarke.
+\newblock Hail formation triggers rapid ash aggregation in volcanic plumes.
+\newblock \emph{Nature communications}, 6, 2015.
+
+\bibitem[Violeau and Issa(2007)]{violeau2007numerical}
+Damien Violeau and Reza Issa.
+\newblock Numerical modelling of complex turbulent free-surface flows with the
+  sph method: an overview.
+\newblock \emph{International Journal for Numerical Methods in Fluids},
+  53:\penalty0 277--304, 2007.
+
+\bibitem[Vitturi(2015)]{3541}
+Mattia de'~Michieli Vitturi.
+\newblock Plumemom, Mar 2015.
+\newblock URL \url{https://vhub.org/resources/3541}.
+
+\bibitem[Wilson et~al.(1978)Wilson, Sparks, Huang, and
+  Watkins]{wilson1978control}
+L~Wilson, RSJ Sparks, TC~Huang, and ND~Watkins.
+\newblock The control of volcanic column heights by eruption energetics and
+  dynamics.
+\newblock \emph{Journal of Geophysical Research: Solid Earth (1978--2012)},
+  83\penalty0 (B4):\penalty0 1829--1836, 1978.
+
+\bibitem[Woods(1993)]{woods1993moist}
+Andrew~W Woods.
+\newblock Moist convection and the injection of volcanic ash into the
+  atmosphere.
+\newblock \emph{Journal of Geophysical Research: Solid Earth (1978--2012)},
+  98\penalty0 (B10):\penalty0 17627--17636, 1993.
+
+\bibitem[Woods and Bower(1995)]{woods1995decompression}
+Andrew~W Woods and Sally~M Bower.
+\newblock The decompression of volcanic jets in a crater during explosive
+  volcanic eruptions.
+\newblock \emph{Earth and Planetary Science Letters}, 131\penalty0
+  (3):\penalty0 189--205, 1995.
+
+\bibitem[Woods and Bursik(1991)]{woods1991particle}
+Andrew~W Woods and Marcus~I Bursik.
+\newblock Particle fallout, thermal disequilibrium and volcanic plumes.
+\newblock \emph{Bulletin of Volcanology}, 53\penalty0 (7):\penalty0 559--570,
+  1991.
+
+\bibitem[Woods(1988)]{woods1988fluid}
+AW~Woods.
+\newblock The fluid dynamics and thermodynamics of eruption columns.
+\newblock \emph{Bulletin of Volcanology}, 50\penalty0 (3):\penalty0 169--193,
+  1988.
+
+\end{thebibliography}

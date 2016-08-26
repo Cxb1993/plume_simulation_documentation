@@ -1,0 +1,68 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: SPH_plume_modeling_documentation.aux
+The style file: plainnat.bst
+Database file #1: Reference.bib
+Repeated entry---line 436 of file Reference.bib
+ : @article{oberhuber1998volcanic
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1075 of file Reference.bib
+ : @article{violeau2007numerical
+ :                              ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "harlow1965numerical"
+Warning--I didn't find a database entry for "cheng1995simplified"
+Warning--I didn't find a database entry for "wrobel1991computational"
+Warning--I didn't find a database entry for "hirt1981volume"
+Warning--I didn't find a database entry for "youngs1982time"
+Warning--I didn't find a database entry for "gerlach2006comparison"
+Warning--I didn't find a database entry for "gopala2008volume"
+Warning--I didn't find a database entry for "unverdi1992front"
+Warning--I didn't find a database entry for "anderson1998diffuse"
+Warning--I didn't find a database entry for "ho2015intersection"
+Warning--I didn't find a database entry for "cerminara2016large"
+Warning--empty journal in issa2005numerical
+Warning--can't use both volume and number fields in morton1956turbulent
+You've used 66 entries,
+            2773 wiz_defined-function locations,
+            995 strings with 16257 characters,
+and the built_in function-call counts, 30587 in all, are:
+= -- 2744
+> -- 1735
+< -- 45
++ -- 595
+- -- 528
+* -- 2534
+:= -- 4709
+add.period$ -- 201
+call.type$ -- 66
+change.case$ -- 369
+chr.to.int$ -- 65
+cite$ -- 134
+duplicate$ -- 1340
+empty$ -- 2542
+format.name$ -- 630
+if$ -- 6347
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 64
+newline$ -- 337
+num.names$ -- 264
+pop$ -- 713
+preamble$ -- 1
+purify$ -- 307
+quote$ -- 0
+skip$ -- 1029
+stack$ -- 0
+substring$ -- 1329
+swap$ -- 98
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 706
+warning$ -- 2
+while$ -- 292
+width$ -- 0
+write$ -- 854
+(There were 2 error messages)
